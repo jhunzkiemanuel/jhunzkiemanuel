@@ -1,0 +1,15 @@
+/Users/jhunzkie/RiderProjects/jhuzkie/jhuzkie/bin/Debug/net7.0/jhuzkie
+/Users/jhunzkie/RiderProjects/jhuzkie/jhuzkie/bin/Debug/net7.0/jhuzkie.deps.json
+/Users/jhunzkie/RiderProjects/jhuzkie/jhuzkie/bin/Debug/net7.0/jhuzkie.runtimeconfig.json
+/Users/jhunzkie/RiderProjects/jhuzkie/jhuzkie/bin/Debug/net7.0/jhuzkie.dll
+/Users/jhunzkie/RiderProjects/jhuzkie/jhuzkie/bin/Debug/net7.0/jhuzkie.pdb
+/Users/jhunzkie/RiderProjects/jhuzkie/jhuzkie/obj/Debug/net7.0/jhuzkie.csproj.AssemblyReference.cache
+/Users/jhunzkie/RiderProjects/jhuzkie/jhuzkie/obj/Debug/net7.0/jhuzkie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhunzkie/RiderProjects/jhuzkie/jhuzkie/obj/Debug/net7.0/jhuzkie.AssemblyInfoInputs.cache
+/Users/jhunzkie/RiderProjects/jhuzkie/jhuzkie/obj/Debug/net7.0/jhuzkie.AssemblyInfo.cs
+/Users/jhunzkie/RiderProjects/jhuzkie/jhuzkie/obj/Debug/net7.0/jhuzkie.csproj.CoreCompileInputs.cache
+/Users/jhunzkie/RiderProjects/jhuzkie/jhuzkie/obj/Debug/net7.0/jhuzkie.dll
+/Users/jhunzkie/RiderProjects/jhuzkie/jhuzkie/obj/Debug/net7.0/refint/jhuzkie.dll
+/Users/jhunzkie/RiderProjects/jhuzkie/jhuzkie/obj/Debug/net7.0/jhuzkie.pdb
+/Users/jhunzkie/RiderProjects/jhuzkie/jhuzkie/obj/Debug/net7.0/jhuzkie.genruntimeconfig.cache
+/Users/jhunzkie/RiderProjects/jhuzkie/jhuzkie/obj/Debug/net7.0/ref/jhuzkie.dll
